@@ -1,0 +1,33 @@
+.heading{
+    display: flex;
+    padding: 20px;
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+    width: 1000px;
+    font-weight: bolder;
+    color: #000;
+}
+
+.p-name{
+    padding-left: 16px;
+}
+
+.p-symbol{
+    padding-left: 90px;
+}
+
+.p-price{
+    padding-left: 110px;
+}
+
+.p-volume{
+    padding-left: 70px;
+}
+
+.p-percent{
+    padding-left: 110px;
+}
+
+.p-marketcap{
+    padding-left: 146px;
+}
